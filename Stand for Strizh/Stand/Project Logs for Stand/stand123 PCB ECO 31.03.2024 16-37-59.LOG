@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=stand Member=P1
+Removed Member From Class: ClassName=stand Member=P2
+Removed Member From Class: ClassName=stand Member=P7
+Removed Member From Class: ClassName=stand Member=P8
+Removed Member From Class: ClassName=stand Member=XS1
+Removed Member From Class: ClassName=stand Member=XS2
+Removed Member From Class: ClassName=stand Member=XS3
+Removed Member From Class: ClassName=stand Member=XS4
+Added Member To Class: ClassName=stand Member=Component *1 PLLD-1.27-40S
+Added Member To Class: ClassName=stand Member=Component *2 PLLD-1.27-40S
+Added Member To Class: ClassName=stand Member=Component *3 PLLD-1.27-40S
+Added Member To Class: ClassName=stand Member=Component * PLLD-1.27-40S
+Added Member To Class: ClassName=stand Member=Component P3 Header 20X2
+Added Member To Class: ClassName=stand Member=Component P4 Header 20X2
+Added Member To Class: ClassName=stand Member=Component P5 Header 20X2
+Added Member To Class: ClassName=stand Member=Component P6 Header 20X2

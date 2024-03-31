@@ -1,0 +1,601 @@
+Added Component: Designator=*?(Headr 2x20 male)
+Added Component: Designator=*?(Headr 2x20 male)
+Added Component: Designator=*?(Headr 2x20 male)
+Added Component: Designator=*(Headr 2x20 male)
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=XS?(Headr 2x20 female)
+Added Component: Designator=XS?(Headr 2x20 female)
+Added Component: Designator=XS?(Headr 2x20 female)
+Added Component: Designator=XS?(Headr 2x20 female)
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=P?-1
+Added Net: Name=Net*?_1
+Add Net: Net with name "Net*?_1" already exists
+Add Net: Net with name "Net*?_1" already exists
+Added Pin To Net: NetName=Net*?_2 Pin=*?-2
+Added Pin To Net: NetName=Net*?_2 Pin=P?-2
+Added Net: Name=Net*?_2
+Add Net: Net with name "Net*?_2" already exists
+Add Net: Net with name "Net*?_2" already exists
+Added Pin To Net: NetName=Net*?_3 Pin=*?-3
+Added Pin To Net: NetName=Net*?_3 Pin=P?-3
+Added Net: Name=Net*?_3
+Add Net: Net with name "Net*?_3" already exists
+Add Net: Net with name "Net*?_3" already exists
+Added Pin To Net: NetName=Net*?_4 Pin=*?-4
+Added Pin To Net: NetName=Net*?_4 Pin=P?-4
+Added Net: Name=Net*?_4
+Add Net: Net with name "Net*?_4" already exists
+Add Net: Net with name "Net*?_4" already exists
+Added Pin To Net: NetName=Net*?_5 Pin=*?-5
+Added Pin To Net: NetName=Net*?_5 Pin=P?-5
+Added Net: Name=Net*?_5
+Add Net: Net with name "Net*?_5" already exists
+Add Net: Net with name "Net*?_5" already exists
+Added Pin To Net: NetName=Net*?_6 Pin=*?-6
+Added Pin To Net: NetName=Net*?_6 Pin=P?-6
+Added Net: Name=Net*?_6
+Add Net: Net with name "Net*?_6" already exists
+Add Net: Net with name "Net*?_6" already exists
+Added Pin To Net: NetName=Net*?_7 Pin=*?-7
+Added Pin To Net: NetName=Net*?_7 Pin=P?-7
+Added Net: Name=Net*?_7
+Add Net: Net with name "Net*?_7" already exists
+Add Net: Net with name "Net*?_7" already exists
+Added Pin To Net: NetName=Net*?_8 Pin=*?-8
+Added Pin To Net: NetName=Net*?_8 Pin=P?-8
+Added Net: Name=Net*?_8
+Add Net: Net with name "Net*?_8" already exists
+Add Net: Net with name "Net*?_8" already exists
+Added Pin To Net: NetName=Net*?_9 Pin=*?-9
+Added Pin To Net: NetName=Net*?_9 Pin=P?-9
+Added Net: Name=Net*?_9
+Add Net: Net with name "Net*?_9" already exists
+Add Net: Net with name "Net*?_9" already exists
+Added Pin To Net: NetName=Net*?_10 Pin=*?-10
+Added Pin To Net: NetName=Net*?_10 Pin=P?-10
+Added Net: Name=Net*?_10
+Add Net: Net with name "Net*?_10" already exists
+Add Net: Net with name "Net*?_10" already exists
+Added Pin To Net: NetName=Net*?_11 Pin=*?-11
+Added Pin To Net: NetName=Net*?_11 Pin=P?-11
+Added Net: Name=Net*?_11
+Add Net: Net with name "Net*?_11" already exists
+Add Net: Net with name "Net*?_11" already exists
+Added Pin To Net: NetName=Net*?_12 Pin=*?-12
+Added Pin To Net: NetName=Net*?_12 Pin=P?-12
+Added Net: Name=Net*?_12
+Add Net: Net with name "Net*?_12" already exists
+Add Net: Net with name "Net*?_12" already exists
+Added Pin To Net: NetName=Net*?_13 Pin=*?-13
+Added Pin To Net: NetName=Net*?_13 Pin=P?-13
+Added Net: Name=Net*?_13
+Add Net: Net with name "Net*?_13" already exists
+Add Net: Net with name "Net*?_13" already exists
+Added Pin To Net: NetName=Net*?_14 Pin=*?-14
+Added Pin To Net: NetName=Net*?_14 Pin=P?-14
+Added Net: Name=Net*?_14
+Add Net: Net with name "Net*?_14" already exists
+Add Net: Net with name "Net*?_14" already exists
+Added Pin To Net: NetName=Net*?_15 Pin=*?-15
+Added Pin To Net: NetName=Net*?_15 Pin=P?-15
+Added Net: Name=Net*?_15
+Add Net: Net with name "Net*?_15" already exists
+Add Net: Net with name "Net*?_15" already exists
+Added Pin To Net: NetName=Net*?_16 Pin=*?-16
+Added Pin To Net: NetName=Net*?_16 Pin=P?-16
+Added Net: Name=Net*?_16
+Add Net: Net with name "Net*?_16" already exists
+Add Net: Net with name "Net*?_16" already exists
+Added Pin To Net: NetName=Net*?_17 Pin=*?-17
+Added Pin To Net: NetName=Net*?_17 Pin=P?-17
+Added Net: Name=Net*?_17
+Add Net: Net with name "Net*?_17" already exists
+Add Net: Net with name "Net*?_17" already exists
+Added Pin To Net: NetName=Net*?_18 Pin=*?-18
+Added Pin To Net: NetName=Net*?_18 Pin=P?-18
+Added Net: Name=Net*?_18
+Add Net: Net with name "Net*?_18" already exists
+Add Net: Net with name "Net*?_18" already exists
+Added Pin To Net: NetName=Net*?_19 Pin=*?-19
+Added Pin To Net: NetName=Net*?_19 Pin=P?-19
+Added Net: Name=Net*?_19
+Add Net: Net with name "Net*?_19" already exists
+Add Net: Net with name "Net*?_19" already exists
+Added Pin To Net: NetName=Net*?_20 Pin=*?-20
+Added Pin To Net: NetName=Net*?_20 Pin=P?-20
+Added Net: Name=Net*?_20
+Add Net: Net with name "Net*?_20" already exists
+Add Net: Net with name "Net*?_20" already exists
+Added Pin To Net: NetName=Net*?_21 Pin=*?-21
+Added Pin To Net: NetName=Net*?_21 Pin=P?-21
+Added Net: Name=Net*?_21
+Add Net: Net with name "Net*?_21" already exists
+Add Net: Net with name "Net*?_21" already exists
+Added Pin To Net: NetName=Net*?_22 Pin=*?-22
+Added Pin To Net: NetName=Net*?_22 Pin=P?-22
+Added Net: Name=Net*?_22
+Add Net: Net with name "Net*?_22" already exists
+Add Net: Net with name "Net*?_22" already exists
+Added Pin To Net: NetName=Net*?_23 Pin=*?-23
+Added Pin To Net: NetName=Net*?_23 Pin=P?-23
+Added Net: Name=Net*?_23
+Add Net: Net with name "Net*?_23" already exists
+Add Net: Net with name "Net*?_23" already exists
+Added Pin To Net: NetName=Net*?_24 Pin=*?-24
+Added Pin To Net: NetName=Net*?_24 Pin=P?-24
+Added Net: Name=Net*?_24
+Add Net: Net with name "Net*?_24" already exists
+Add Net: Net with name "Net*?_24" already exists
+Added Pin To Net: NetName=Net*?_25 Pin=*?-25
+Added Pin To Net: NetName=Net*?_25 Pin=P?-25
+Added Net: Name=Net*?_25
+Add Net: Net with name "Net*?_25" already exists
+Add Net: Net with name "Net*?_25" already exists
+Added Pin To Net: NetName=Net*?_26 Pin=*?-26
+Added Pin To Net: NetName=Net*?_26 Pin=P?-26
+Added Net: Name=Net*?_26
+Add Net: Net with name "Net*?_26" already exists
+Add Net: Net with name "Net*?_26" already exists
+Added Pin To Net: NetName=Net*?_27 Pin=*?-27
+Added Pin To Net: NetName=Net*?_27 Pin=P?-27
+Added Net: Name=Net*?_27
+Add Net: Net with name "Net*?_27" already exists
+Add Net: Net with name "Net*?_27" already exists
+Added Pin To Net: NetName=Net*?_28 Pin=*?-28
+Added Pin To Net: NetName=Net*?_28 Pin=P?-28
+Added Net: Name=Net*?_28
+Add Net: Net with name "Net*?_28" already exists
+Add Net: Net with name "Net*?_28" already exists
+Added Pin To Net: NetName=Net*?_29 Pin=*?-29
+Added Pin To Net: NetName=Net*?_29 Pin=P?-29
+Added Net: Name=Net*?_29
+Add Net: Net with name "Net*?_29" already exists
+Add Net: Net with name "Net*?_29" already exists
+Added Pin To Net: NetName=Net*?_30 Pin=*?-30
+Added Pin To Net: NetName=Net*?_30 Pin=P?-30
+Added Net: Name=Net*?_30
+Add Net: Net with name "Net*?_30" already exists
+Add Net: Net with name "Net*?_30" already exists
+Added Pin To Net: NetName=Net*?_31 Pin=*?-31
+Added Pin To Net: NetName=Net*?_31 Pin=P?-31
+Added Net: Name=Net*?_31
+Add Net: Net with name "Net*?_31" already exists
+Add Net: Net with name "Net*?_31" already exists
+Added Pin To Net: NetName=Net*?_32 Pin=*?-32
+Added Pin To Net: NetName=Net*?_32 Pin=P?-32
+Added Net: Name=Net*?_32
+Add Net: Net with name "Net*?_32" already exists
+Add Net: Net with name "Net*?_32" already exists
+Added Pin To Net: NetName=Net*?_33 Pin=*?-33
+Added Pin To Net: NetName=Net*?_33 Pin=P?-33
+Added Net: Name=Net*?_33
+Add Net: Net with name "Net*?_33" already exists
+Add Net: Net with name "Net*?_33" already exists
+Added Pin To Net: NetName=Net*?_34 Pin=*?-34
+Added Pin To Net: NetName=Net*?_34 Pin=P?-34
+Added Net: Name=Net*?_34
+Add Net: Net with name "Net*?_34" already exists
+Add Net: Net with name "Net*?_34" already exists
+Added Pin To Net: NetName=Net*?_35 Pin=*?-35
+Added Pin To Net: NetName=Net*?_35 Pin=P?-35
+Added Net: Name=Net*?_35
+Add Net: Net with name "Net*?_35" already exists
+Add Net: Net with name "Net*?_35" already exists
+Added Pin To Net: NetName=Net*?_36 Pin=*?-36
+Added Pin To Net: NetName=Net*?_36 Pin=P?-36
+Added Net: Name=Net*?_36
+Add Net: Net with name "Net*?_36" already exists
+Add Net: Net with name "Net*?_36" already exists
+Added Pin To Net: NetName=Net*?_37 Pin=*?-37
+Added Pin To Net: NetName=Net*?_37 Pin=P?-37
+Added Net: Name=Net*?_37
+Add Net: Net with name "Net*?_37" already exists
+Add Net: Net with name "Net*?_37" already exists
+Added Pin To Net: NetName=Net*?_38 Pin=*?-38
+Added Pin To Net: NetName=Net*?_38 Pin=P?-38
+Added Net: Name=Net*?_38
+Add Net: Net with name "Net*?_38" already exists
+Add Net: Net with name "Net*?_38" already exists
+Added Pin To Net: NetName=Net*?_39 Pin=*?-39
+Added Pin To Net: NetName=Net*?_39 Pin=P?-39
+Added Net: Name=Net*?_39
+Add Net: Net with name "Net*?_39" already exists
+Add Net: Net with name "Net*?_39" already exists
+Added Pin To Net: NetName=Net*?_40 Pin=*?-40
+Added Pin To Net: NetName=Net*?_40 Pin=P?-40
+Added Net: Name=Net*?_40
+Add Net: Net with name "Net*?_40" already exists
+Add Net: Net with name "Net*?_40" already exists
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=P?-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=P?-2
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=P?-3
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=P?-4
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=P?-5
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=P?-6
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=P?-7
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_8 Pin=*-8
+Added Pin To Net: NetName=Net*_8 Pin=P?-8
+Added Net: Name=Net*_8
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=P?-9
+Added Net: Name=Net*_9
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Pin To Net: NetName=Net*_10 Pin=P?-10
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=P?-11
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=P?-12
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=P?-13
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=P?-14
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=P?-15
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_16 Pin=*-16
+Added Pin To Net: NetName=Net*_16 Pin=P?-16
+Added Net: Name=Net*_16
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_17 Pin=P?-17
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_18 Pin=*-18
+Added Pin To Net: NetName=Net*_18 Pin=P?-18
+Added Net: Name=Net*_18
+Added Pin To Net: NetName=Net*_19 Pin=*-19
+Added Pin To Net: NetName=Net*_19 Pin=P?-19
+Added Net: Name=Net*_19
+Added Pin To Net: NetName=Net*_20 Pin=*-20
+Added Pin To Net: NetName=Net*_20 Pin=P?-20
+Added Net: Name=Net*_20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Pin To Net: NetName=Net*_21 Pin=P?-21
+Added Net: Name=Net*_21
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_22 Pin=P?-22
+Added Net: Name=Net*_22
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Pin To Net: NetName=Net*_23 Pin=P?-23
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Pin To Net: NetName=Net*_24 Pin=P?-24
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Pin To Net: NetName=Net*_25 Pin=P?-25
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_26 Pin=*-26
+Added Pin To Net: NetName=Net*_26 Pin=P?-26
+Added Net: Name=Net*_26
+Added Pin To Net: NetName=Net*_27 Pin=*-27
+Added Pin To Net: NetName=Net*_27 Pin=P?-27
+Added Net: Name=Net*_27
+Added Pin To Net: NetName=Net*_28 Pin=*-28
+Added Pin To Net: NetName=Net*_28 Pin=P?-28
+Added Net: Name=Net*_28
+Added Pin To Net: NetName=Net*_29 Pin=*-29
+Added Pin To Net: NetName=Net*_29 Pin=P?-29
+Added Net: Name=Net*_29
+Added Pin To Net: NetName=Net*_30 Pin=*-30
+Added Pin To Net: NetName=Net*_30 Pin=P?-30
+Added Net: Name=Net*_30
+Added Pin To Net: NetName=Net*_31 Pin=*-31
+Added Pin To Net: NetName=Net*_31 Pin=P?-31
+Added Net: Name=Net*_31
+Added Pin To Net: NetName=Net*_32 Pin=*-32
+Added Pin To Net: NetName=Net*_32 Pin=P?-32
+Added Net: Name=Net*_32
+Added Pin To Net: NetName=Net*_33 Pin=*-33
+Added Pin To Net: NetName=Net*_33 Pin=P?-33
+Added Net: Name=Net*_33
+Added Pin To Net: NetName=Net*_34 Pin=*-34
+Added Pin To Net: NetName=Net*_34 Pin=P?-34
+Added Net: Name=Net*_34
+Added Pin To Net: NetName=Net*_35 Pin=*-35
+Added Pin To Net: NetName=Net*_35 Pin=P?-35
+Added Net: Name=Net*_35
+Added Pin To Net: NetName=Net*_36 Pin=*-36
+Added Pin To Net: NetName=Net*_36 Pin=P?-36
+Added Net: Name=Net*_36
+Added Pin To Net: NetName=Net*_37 Pin=*-37
+Added Pin To Net: NetName=Net*_37 Pin=P?-37
+Added Net: Name=Net*_37
+Added Pin To Net: NetName=Net*_38 Pin=*-38
+Added Pin To Net: NetName=Net*_38 Pin=P?-38
+Added Net: Name=Net*_38
+Added Pin To Net: NetName=Net*_39 Pin=*-39
+Added Pin To Net: NetName=Net*_39 Pin=P?-39
+Added Net: Name=Net*_39
+Added Pin To Net: NetName=Net*_40 Pin=*-40
+Added Pin To Net: NetName=Net*_40 Pin=P?-40
+Added Net: Name=Net*_40
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=XS?-1
+Added Net: Name=NetP?_1
+Add Net: Net with name "NetP?_1" already exists
+Add Net: Net with name "NetP?_1" already exists
+Add Net: Net with name "NetP?_1" already exists
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=XS?-2
+Added Net: Name=NetP?_2
+Add Net: Net with name "NetP?_2" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Net: Net with name "NetP?_2" already exists
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=XS?-3
+Added Net: Name=NetP?_3
+Add Net: Net with name "NetP?_3" already exists
+Add Net: Net with name "NetP?_3" already exists
+Add Net: Net with name "NetP?_3" already exists
+Added Pin To Net: NetName=NetP?_4 Pin=P?-4
+Added Pin To Net: NetName=NetP?_4 Pin=XS?-4
+Added Net: Name=NetP?_4
+Add Net: Net with name "NetP?_4" already exists
+Add Net: Net with name "NetP?_4" already exists
+Add Net: Net with name "NetP?_4" already exists
+Added Pin To Net: NetName=NetP?_5 Pin=P?-5
+Added Pin To Net: NetName=NetP?_5 Pin=XS?-5
+Added Net: Name=NetP?_5
+Add Net: Net with name "NetP?_5" already exists
+Add Net: Net with name "NetP?_5" already exists
+Add Net: Net with name "NetP?_5" already exists
+Added Pin To Net: NetName=NetP?_6 Pin=P?-6
+Added Pin To Net: NetName=NetP?_6 Pin=XS?-6
+Added Net: Name=NetP?_6
+Add Net: Net with name "NetP?_6" already exists
+Add Net: Net with name "NetP?_6" already exists
+Add Net: Net with name "NetP?_6" already exists
+Added Pin To Net: NetName=NetP?_7 Pin=P?-7
+Added Pin To Net: NetName=NetP?_7 Pin=XS?-7
+Added Net: Name=NetP?_7
+Add Net: Net with name "NetP?_7" already exists
+Add Net: Net with name "NetP?_7" already exists
+Add Net: Net with name "NetP?_7" already exists
+Added Pin To Net: NetName=NetP?_8 Pin=P?-8
+Added Pin To Net: NetName=NetP?_8 Pin=XS?-8
+Added Net: Name=NetP?_8
+Add Net: Net with name "NetP?_8" already exists
+Add Net: Net with name "NetP?_8" already exists
+Add Net: Net with name "NetP?_8" already exists
+Added Pin To Net: NetName=NetP?_9 Pin=P?-9
+Added Pin To Net: NetName=NetP?_9 Pin=XS?-9
+Added Net: Name=NetP?_9
+Add Net: Net with name "NetP?_9" already exists
+Add Net: Net with name "NetP?_9" already exists
+Add Net: Net with name "NetP?_9" already exists
+Added Pin To Net: NetName=NetP?_10 Pin=P?-10
+Added Pin To Net: NetName=NetP?_10 Pin=XS?-10
+Added Net: Name=NetP?_10
+Add Net: Net with name "NetP?_10" already exists
+Add Net: Net with name "NetP?_10" already exists
+Add Net: Net with name "NetP?_10" already exists
+Added Pin To Net: NetName=NetP?_11 Pin=P?-11
+Added Pin To Net: NetName=NetP?_11 Pin=XS?-11
+Added Net: Name=NetP?_11
+Add Net: Net with name "NetP?_11" already exists
+Add Net: Net with name "NetP?_11" already exists
+Add Net: Net with name "NetP?_11" already exists
+Added Pin To Net: NetName=NetP?_12 Pin=P?-12
+Added Pin To Net: NetName=NetP?_12 Pin=XS?-12
+Added Net: Name=NetP?_12
+Add Net: Net with name "NetP?_12" already exists
+Add Net: Net with name "NetP?_12" already exists
+Add Net: Net with name "NetP?_12" already exists
+Added Pin To Net: NetName=NetP?_13 Pin=P?-13
+Added Pin To Net: NetName=NetP?_13 Pin=XS?-13
+Added Net: Name=NetP?_13
+Add Net: Net with name "NetP?_13" already exists
+Add Net: Net with name "NetP?_13" already exists
+Add Net: Net with name "NetP?_13" already exists
+Added Pin To Net: NetName=NetP?_14 Pin=P?-14
+Added Pin To Net: NetName=NetP?_14 Pin=XS?-14
+Added Net: Name=NetP?_14
+Add Net: Net with name "NetP?_14" already exists
+Add Net: Net with name "NetP?_14" already exists
+Add Net: Net with name "NetP?_14" already exists
+Added Pin To Net: NetName=NetP?_15 Pin=P?-15
+Added Pin To Net: NetName=NetP?_15 Pin=XS?-15
+Added Net: Name=NetP?_15
+Add Net: Net with name "NetP?_15" already exists
+Add Net: Net with name "NetP?_15" already exists
+Add Net: Net with name "NetP?_15" already exists
+Added Pin To Net: NetName=NetP?_16 Pin=P?-16
+Added Pin To Net: NetName=NetP?_16 Pin=XS?-16
+Added Net: Name=NetP?_16
+Add Net: Net with name "NetP?_16" already exists
+Add Net: Net with name "NetP?_16" already exists
+Add Net: Net with name "NetP?_16" already exists
+Added Pin To Net: NetName=NetP?_17 Pin=P?-17
+Added Pin To Net: NetName=NetP?_17 Pin=XS?-17
+Added Net: Name=NetP?_17
+Add Net: Net with name "NetP?_17" already exists
+Add Net: Net with name "NetP?_17" already exists
+Add Net: Net with name "NetP?_17" already exists
+Added Pin To Net: NetName=NetP?_18 Pin=P?-18
+Added Pin To Net: NetName=NetP?_18 Pin=XS?-18
+Added Net: Name=NetP?_18
+Add Net: Net with name "NetP?_18" already exists
+Add Net: Net with name "NetP?_18" already exists
+Add Net: Net with name "NetP?_18" already exists
+Added Pin To Net: NetName=NetP?_19 Pin=P?-19
+Added Pin To Net: NetName=NetP?_19 Pin=XS?-19
+Added Net: Name=NetP?_19
+Add Net: Net with name "NetP?_19" already exists
+Add Net: Net with name "NetP?_19" already exists
+Add Net: Net with name "NetP?_19" already exists
+Added Pin To Net: NetName=NetP?_20 Pin=P?-20
+Added Pin To Net: NetName=NetP?_20 Pin=XS?-20
+Added Net: Name=NetP?_20
+Add Net: Net with name "NetP?_20" already exists
+Add Net: Net with name "NetP?_20" already exists
+Add Net: Net with name "NetP?_20" already exists
+Added Pin To Net: NetName=NetP?_21 Pin=P?-21
+Added Pin To Net: NetName=NetP?_21 Pin=XS?-21
+Added Net: Name=NetP?_21
+Add Net: Net with name "NetP?_21" already exists
+Add Net: Net with name "NetP?_21" already exists
+Add Net: Net with name "NetP?_21" already exists
+Added Pin To Net: NetName=NetP?_22 Pin=P?-22
+Added Pin To Net: NetName=NetP?_22 Pin=XS?-22
+Added Net: Name=NetP?_22
+Add Net: Net with name "NetP?_22" already exists
+Add Net: Net with name "NetP?_22" already exists
+Add Net: Net with name "NetP?_22" already exists
+Added Pin To Net: NetName=NetP?_23 Pin=P?-23
+Added Pin To Net: NetName=NetP?_23 Pin=XS?-23
+Added Net: Name=NetP?_23
+Add Net: Net with name "NetP?_23" already exists
+Add Net: Net with name "NetP?_23" already exists
+Add Net: Net with name "NetP?_23" already exists
+Added Pin To Net: NetName=NetP?_24 Pin=P?-24
+Added Pin To Net: NetName=NetP?_24 Pin=XS?-24
+Added Net: Name=NetP?_24
+Add Net: Net with name "NetP?_24" already exists
+Add Net: Net with name "NetP?_24" already exists
+Add Net: Net with name "NetP?_24" already exists
+Added Pin To Net: NetName=NetP?_25 Pin=P?-25
+Added Pin To Net: NetName=NetP?_25 Pin=XS?-25
+Added Net: Name=NetP?_25
+Add Net: Net with name "NetP?_25" already exists
+Add Net: Net with name "NetP?_25" already exists
+Add Net: Net with name "NetP?_25" already exists
+Added Pin To Net: NetName=NetP?_26 Pin=P?-26
+Added Pin To Net: NetName=NetP?_26 Pin=XS?-26
+Added Net: Name=NetP?_26
+Add Net: Net with name "NetP?_26" already exists
+Add Net: Net with name "NetP?_26" already exists
+Add Net: Net with name "NetP?_26" already exists
+Added Pin To Net: NetName=NetP?_27 Pin=P?-27
+Added Pin To Net: NetName=NetP?_27 Pin=XS?-27
+Added Net: Name=NetP?_27
+Add Net: Net with name "NetP?_27" already exists
+Add Net: Net with name "NetP?_27" already exists
+Add Net: Net with name "NetP?_27" already exists
+Added Pin To Net: NetName=NetP?_28 Pin=P?-28
+Added Pin To Net: NetName=NetP?_28 Pin=XS?-28
+Added Net: Name=NetP?_28
+Add Net: Net with name "NetP?_28" already exists
+Add Net: Net with name "NetP?_28" already exists
+Add Net: Net with name "NetP?_28" already exists
+Added Pin To Net: NetName=NetP?_29 Pin=P?-29
+Added Pin To Net: NetName=NetP?_29 Pin=XS?-29
+Added Net: Name=NetP?_29
+Add Net: Net with name "NetP?_29" already exists
+Add Net: Net with name "NetP?_29" already exists
+Add Net: Net with name "NetP?_29" already exists
+Added Pin To Net: NetName=NetP?_30 Pin=P?-30
+Added Pin To Net: NetName=NetP?_30 Pin=XS?-30
+Added Net: Name=NetP?_30
+Add Net: Net with name "NetP?_30" already exists
+Add Net: Net with name "NetP?_30" already exists
+Add Net: Net with name "NetP?_30" already exists
+Added Pin To Net: NetName=NetP?_31 Pin=P?-31
+Added Pin To Net: NetName=NetP?_31 Pin=XS?-31
+Added Net: Name=NetP?_31
+Add Net: Net with name "NetP?_31" already exists
+Add Net: Net with name "NetP?_31" already exists
+Add Net: Net with name "NetP?_31" already exists
+Added Pin To Net: NetName=NetP?_32 Pin=P?-32
+Added Pin To Net: NetName=NetP?_32 Pin=XS?-32
+Added Net: Name=NetP?_32
+Add Net: Net with name "NetP?_32" already exists
+Add Net: Net with name "NetP?_32" already exists
+Add Net: Net with name "NetP?_32" already exists
+Added Pin To Net: NetName=NetP?_33 Pin=P?-33
+Added Pin To Net: NetName=NetP?_33 Pin=XS?-33
+Added Net: Name=NetP?_33
+Add Net: Net with name "NetP?_33" already exists
+Add Net: Net with name "NetP?_33" already exists
+Add Net: Net with name "NetP?_33" already exists
+Added Pin To Net: NetName=NetP?_34 Pin=P?-34
+Added Pin To Net: NetName=NetP?_34 Pin=XS?-34
+Added Net: Name=NetP?_34
+Add Net: Net with name "NetP?_34" already exists
+Add Net: Net with name "NetP?_34" already exists
+Add Net: Net with name "NetP?_34" already exists
+Added Pin To Net: NetName=NetP?_35 Pin=P?-35
+Added Pin To Net: NetName=NetP?_35 Pin=XS?-35
+Added Net: Name=NetP?_35
+Add Net: Net with name "NetP?_35" already exists
+Add Net: Net with name "NetP?_35" already exists
+Add Net: Net with name "NetP?_35" already exists
+Added Pin To Net: NetName=NetP?_36 Pin=P?-36
+Added Pin To Net: NetName=NetP?_36 Pin=XS?-36
+Added Net: Name=NetP?_36
+Add Net: Net with name "NetP?_36" already exists
+Add Net: Net with name "NetP?_36" already exists
+Add Net: Net with name "NetP?_36" already exists
+Added Pin To Net: NetName=NetP?_37 Pin=P?-37
+Added Pin To Net: NetName=NetP?_37 Pin=XS?-37
+Added Net: Name=NetP?_37
+Add Net: Net with name "NetP?_37" already exists
+Add Net: Net with name "NetP?_37" already exists
+Add Net: Net with name "NetP?_37" already exists
+Added Pin To Net: NetName=NetP?_38 Pin=P?-38
+Added Pin To Net: NetName=NetP?_38 Pin=XS?-38
+Added Net: Name=NetP?_38
+Add Net: Net with name "NetP?_38" already exists
+Add Net: Net with name "NetP?_38" already exists
+Add Net: Net with name "NetP?_38" already exists
+Added Pin To Net: NetName=NetP?_39 Pin=P?-39
+Added Pin To Net: NetName=NetP?_39 Pin=XS?-39
+Added Net: Name=NetP?_39
+Add Net: Net with name "NetP?_39" already exists
+Add Net: Net with name "NetP?_39" already exists
+Add Net: Net with name "NetP?_39" already exists
+Added Pin To Net: NetName=NetP?_40 Pin=P?-40
+Added Pin To Net: NetName=NetP?_40 Pin=XS?-40
+Added Net: Name=NetP?_40
+Add Net: Net with name "NetP?_40" already exists
+Add Net: Net with name "NetP?_40" already exists
+Add Net: Net with name "NetP?_40" already exists
+Added Class: Name=stand
