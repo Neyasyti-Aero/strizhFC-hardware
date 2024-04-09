@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=VCC Pin=-1
+Change Component Designator: OldDesignator= NewDesignator=AT
+Change Component Designator: OldDesignator= NewDesignator=GND
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=SIGNAL
+Change Component Designator: OldDesignator= NewDesignator=USART2
+Change Component Designator: OldDesignator= NewDesignator=VCC
+Change Component Designator: OldDesignator= NewDesignator=XP2
+Change Component Designator: OldDesignator= NewDesignator=XP3
+Change Component Designator: OldDesignator= NewDesignator=XP4
+Change Component Designator: OldDesignator= NewDesignator=XT1
+Change Component Designator: OldDesignator= NewDesignator=XT2
+Change Component Designator: OldDesignator= NewDesignator=Y1
+Added Component: Designator=C2(CAPPM3528X210N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/T493B105K025BC6120/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "T493B105K025BC6120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/T493B105K025BC6120/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPPM3528X210N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/T493B105K025BC6120/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "T493B105K025BC6120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/T493B105K025BC6120/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езистор"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езистор"; VariantName = "[No Variations]"
+Added Component: Designator=R37(R2512)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езистор"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R0603)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езистор"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0603)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езистор"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-214AA)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ƒиод"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C31-1
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R40-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Pin To Net: NetName=VCC Pin=VD1-2
+Added Pin To Net: NetName=VCC Pin=XT1-1
+Added Pin To Net: NetName=GND Pin=XT1-2
+Added Pin To Net: NetName=GND Pin=XT2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C31-2
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R4-1
+Added Pin To Net: NetName=NetC2_2 Pin=VD1-1
+Added Pin To Net: NetName=NetC2_2 Pin=XP4-17
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=R38-2
+Added Pin To Net: NetName=NetR37_1 Pin=XT2-1
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=R40-1
+Added Pin To Net: NetName=NetR38_1 Pin=XP4-15
+Added Net: Name=NetR38_1
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component AT AT7456
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component C2 T493B105K025BC6120
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component C31 T493B105K025BC6120
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component GND SERVO
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component LED1 Text
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component LED2 Text
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component R2
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component R4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component R37
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component R38
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component R40
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component SIGNAL SERVO
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component USART2 UART 1x6
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component VCC SERVO
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component VD1 Schottky
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component XP2 PLLD-1.27-40S
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component XP3 PLLD-1.27-40S
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component XP4 PLLD-1.27-40S
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component XT1 XT60PW-M
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component XT2 XT60PW-M
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component Y1 ABM7-8.000MHZ-8-R80-D2Y-T

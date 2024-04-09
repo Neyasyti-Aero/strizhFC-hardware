@@ -1,0 +1,29 @@
+Added Component: Designator=ADC(PicoBlade 6pin)
+Added Pin To Net: NetName=3V3 Pin=ADC-1
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Pin To Net: NetName=NetADC_2 Pin=ADC-2
+Added Pin To Net: NetName=NetADC_2 Pin=XP3-24
+Added Net: Name=NetADC_2
+Added Pin To Net: NetName=NetADC_3 Pin=ADC-3
+Added Pin To Net: NetName=NetADC_3 Pin=XP3-26
+Added Net: Name=NetADC_3
+Added Pin To Net: NetName=NetADC_4 Pin=ADC-4
+Added Pin To Net: NetName=NetADC_4 Pin=XP3-28
+Added Net: Name=NetADC_4
+Added Pin To Net: NetName=NetADC_5 Pin=ADC-5
+Added Pin To Net: NetName=NetADC_5 Pin=XP3-30
+Added Net: Name=NetADC_5
+Added Pin To Net: NetName=NetADC_6 Pin=ADC-6
+Added Pin To Net: NetName=NetADC_6 Pin=XP3-32
+Added Net: Name=NetADC_6
+Added Member To Class: ClassName=нижн€€ плата верси€ 1 Member=Component ADC Header 1x6

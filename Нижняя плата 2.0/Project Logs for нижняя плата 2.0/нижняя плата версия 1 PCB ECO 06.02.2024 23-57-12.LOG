@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetR30_1 Pin=TYPE-C-A5
+Removed Pin From Net: NetName=GND Pin=TYPE-C-B1_A12
+Removed Pin From Net: NetName=5V Pin=TYPE-C-B4_A9
+Removed Pin From Net: NetName=NetR34_1 Pin=TYPE-C-B5
+Added Component: Designator=R39(R0603)
+Add component (AddParameter): Name = "Published"; Value = "24.03.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езистор"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SWIT)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=3V3 Pin=S1-2
+Added Pin To Net: NetName=3V3 Pin=S1-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=S1-1
+Added Pin To Net: NetName=NetR39_2 Pin=S1-1
+Added Pin To Net: NetName=NetR39_2 Pin=XP2-20
+Added Net: Name=NetR39_2
+Added Member To Class: ClassName=нижн€€ плата верси€ 1 Member=Component R39 10 kOm
+Added Member To Class: ClassName=нижн€€ плата верси€ 1 Member=Component S1 SW-PB

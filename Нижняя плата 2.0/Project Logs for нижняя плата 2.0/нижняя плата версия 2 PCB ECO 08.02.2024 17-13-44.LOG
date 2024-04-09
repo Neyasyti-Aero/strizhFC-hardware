@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=TYPE-C-A1_B12
+Removed Pin From Net: NetName=5V Pin=TYPE-C-A4_B9
+Removed Pin From Net: NetName=NetR30_1 Pin=TYPE-C-A5
+Removed Pin From Net: NetName=GND Pin=TYPE-C-B1_A12
+Removed Pin From Net: NetName=5V Pin=TYPE-C-B4_A9
+Removed Pin From Net: NetName=NetR34_1 Pin=TYPE-C-B5
+Change Component Designator: OldDesignator=XT NewDesignator=XT2
+Added Component: Designator=ENET(PicoBlade 6pin)
+Added Component: Designator=XT1(AMASS_XT60PW-M)
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Pin To Net: NetName=NetENET_1 Pin=ENET-1
+Added Pin To Net: NetName=NetENET_1 Pin=XP2-8
+Added Net: Name=NetENET_1
+Added Pin To Net: NetName=NetENET_2 Pin=ENET-2
+Added Pin To Net: NetName=NetENET_2 Pin=XP2-10
+Added Net: Name=NetENET_2
+Added Pin To Net: NetName=NetENET_3 Pin=ENET-3
+Added Pin To Net: NetName=NetENET_3 Pin=XP2-12
+Added Net: Name=NetENET_3
+Added Pin To Net: NetName=NetENET_4 Pin=ENET-4
+Added Pin To Net: NetName=NetENET_4 Pin=XP2-14
+Added Net: Name=NetENET_4
+Added Pin To Net: NetName=NetENET_5 Pin=ENET-5
+Added Pin To Net: NetName=NetENET_5 Pin=XP2-16
+Added Net: Name=NetENET_5
+Added Pin To Net: NetName=NetENET_6 Pin=ENET-6
+Added Pin To Net: NetName=NetENET_6 Pin=XP2-18
+Added Net: Name=NetENET_6
+Change Class Name : Old Net Name=нижн€€ плата верси€ 1 New Net Name=нижн€€ плата верси€ 2
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component ENET Header 1x6
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component XT1 XT60PW-M

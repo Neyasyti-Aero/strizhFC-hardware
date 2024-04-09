@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=5V Pin=TYPE-C1-2
+Removed Pin From Net: NetName=GND Pin=TYPE-C1-A1_B12
+Removed Pin From Net: NetName=5V Pin=TYPE-C1-A4_B9
+Removed Pin From Net: NetName=NetR14_2 Pin=TYPE-C1-A5
+Removed Pin From Net: NetName=NetR15_1 Pin=TYPE-C1-A6
+Removed Pin From Net: NetName=NetR16_1 Pin=TYPE-C1-A7
+Removed Pin From Net: NetName=NetR17_1 Pin=TYPE-C1-B5
+Removed Pin From Net: NetName=NetR15_1 Pin=TYPE-C1-B6
+Removed Pin From Net: NetName=NetR16_1 Pin=TYPE-C1-B7
+Removed Pin From Net: NetName=5V Pin=VD1-1
+Removed Pin From Net: NetName=5V Pin=VD1-2
+Add Pin To Net: Unknown Pin: Pin LDO1-4
+Add Pin To Net: Unknown Pin: Pin LDO2-4
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-1
+Added Pin To Net: NetName=NetTYPE-C1_2 Pin=TYPE-C1-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-4
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-5
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-12
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-13
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C1-16
+Add Pin To Net: Unknown Pin: Pin VD1-A
+Add Pin To Net: Unknown Pin: Pin VD1-C

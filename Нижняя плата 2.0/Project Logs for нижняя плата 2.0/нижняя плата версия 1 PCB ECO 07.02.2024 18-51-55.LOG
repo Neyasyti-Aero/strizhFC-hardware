@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetR37_2 Pin=XP3-24
+Change Component Footprint: Designator=GND Old Footprint=SCT1251WV-13P New Footprint=SERV
+Change Component Footprint: Designator=SIGNAL Old Footprint=SCT1251WV-13P New Footprint=SERV
+Change Component Footprint: Designator=VCC Old Footprint=SCT1251WV-13P New Footprint=SERV
+Change Footprint: Cannot match pads with new footprint in component :LDO Footprint:D2PAK-2
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Pin To Net: NetName=NetR37_2 Pin=XP4-17
+Add Class Member: Failed to add class member : Component D йт1158м

@@ -1,0 +1,104 @@
+Added Component: Designator=ADC(PicoBlade 6pin)
+Added Component: Designator=CAN1(PicoBlade 4pin)
+Added Component: Designator=ENET(PicoBlade 6pin)
+Added Component: Designator=GPIO(PicoBlade 6pin)
+Added Component: Designator=I2C(PicoBlade 4pin)
+Added Component: Designator=IN(PicoBlade 3pin)
+Added Component: Designator=OUT(PicoBlade 3pin)
+Added Component: Designator=SPI(PicoBlade 7pin)
+Added Component: Designator=UART3(PicoBlade 4pin)
+Added Component: Designator=UART4(PicoBlade 4pin)
+Added Component: Designator=USART0(PicoBlade 4pin)
+Added Component: Designator=USART1(PicoBlade 4pin)
+Added Component: Designator=USART2(PicoBlade 6pin)
+Added Component: Designator=USART5(PicoBlade 4pin)
+Added Pin To Net: NetName=3V3 Pin=ADC-1
+Added Pin To Net: NetName=NetADC_2 Pin=ADC-2
+Added Pin To Net: NetName=NetADC_3 Pin=ADC-3
+Added Pin To Net: NetName=NetADC_4 Pin=ADC-4
+Added Pin To Net: NetName=NetADC_5 Pin=ADC-5
+Added Pin To Net: NetName=NetADC_6 Pin=ADC-6
+Added Pin To Net: NetName=5V Pin=CAN1-1
+Added Pin To Net: NetName=NetCAN1_2 Pin=CAN1-2
+Added Pin To Net: NetName=NetCAN1_3 Pin=CAN1-3
+Added Pin To Net: NetName=GND Pin=CAN1-4
+Added Pin To Net: NetName=NetENET_1 Pin=ENET-1
+Added Pin To Net: NetName=NetENET_2 Pin=ENET-2
+Added Pin To Net: NetName=NetENET_3 Pin=ENET-3
+Added Pin To Net: NetName=NetENET_4 Pin=ENET-4
+Added Pin To Net: NetName=NetENET_5 Pin=ENET-5
+Added Pin To Net: NetName=NetENET_6 Pin=ENET-6
+Added Pin To Net: NetName=3V3 Pin=GPIO-1
+Added Pin To Net: NetName=NetGPIO_2 Pin=GPIO-2
+Added Pin To Net: NetName=NetGPIO_3 Pin=GPIO-3
+Added Pin To Net: NetName=NetGPIO_4 Pin=GPIO-4
+Added Pin To Net: NetName=NetGPIO_5 Pin=GPIO-5
+Added Pin To Net: NetName=GND Pin=GPIO-6
+Added Pin To Net: NetName=5V Pin=I2C-1
+Added Pin To Net: NetName=NetI2C_2 Pin=I2C-2
+Added Pin To Net: NetName=NetI2C_3 Pin=I2C-3
+Added Pin To Net: NetName=GND Pin=I2C-4
+Added Pin To Net: NetName=5V Pin=IN-1
+Added Pin To Net: NetName=NetC1_2 Pin=IN-2
+Added Pin To Net: NetName=GND Pin=IN-3
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Added Pin To Net: NetName=VCC Pin=OUT-1
+Added Pin To Net: NetName=NetOUT_2 Pin=OUT-2
+Added Pin To Net: NetName=GND Pin=OUT-3
+Added Pin To Net: NetName=5V Pin=SPI-1
+Added Pin To Net: NetName=NetAT_9 Pin=SPI-2
+Added Pin To Net: NetName=NetAT_11 Pin=SPI-3
+Added Pin To Net: NetName=NetAT_10 Pin=SPI-4
+Added Pin To Net: NetName=NetSPI_5 Pin=SPI-5
+Added Pin To Net: NetName=NetSPI_6 Pin=SPI-6
+Added Pin To Net: NetName=GND Pin=SPI-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Pin To Net: NetName=3V3 Pin=UART3-1
+Added Pin To Net: NetName=NetUART3_2 Pin=UART3-2
+Added Pin To Net: NetName=NetUART3_3 Pin=UART3-3
+Added Pin To Net: NetName=GND Pin=UART3-4
+Added Pin To Net: NetName=3V3 Pin=UART4-1
+Added Pin To Net: NetName=NetUART4_2 Pin=UART4-2
+Added Pin To Net: NetName=NetUART4_3 Pin=UART4-3
+Added Pin To Net: NetName=GND Pin=UART4-4
+Added Pin To Net: NetName=3V3 Pin=USART0-1
+Added Pin To Net: NetName=NetUSART0_2 Pin=USART0-2
+Added Pin To Net: NetName=NetUSART0_3 Pin=USART0-3
+Added Pin To Net: NetName=GND Pin=USART0-4
+Added Pin To Net: NetName=3V3 Pin=USART1-1
+Added Pin To Net: NetName=NetUSART1_2 Pin=USART1-2
+Added Pin To Net: NetName=NetUSART1_3 Pin=USART1-3
+Added Pin To Net: NetName=GND Pin=USART1-4
+Added Pin To Net: NetName=3V3 Pin=USART2-1
+Added Pin To Net: NetName=NetUSART2_2 Pin=USART2-2
+Added Pin To Net: NetName=NetUSART2_3 Pin=USART2-3
+Added Pin To Net: NetName=NetUSART2_4 Pin=USART2-4
+Added Pin To Net: NetName=NetUSART2_5 Pin=USART2-5
+Added Pin To Net: NetName=GND Pin=USART2-6
+Added Pin To Net: NetName=3V3 Pin=USART5-1
+Added Pin To Net: NetName=NetUSART5_2 Pin=USART5-2
+Added Pin To Net: NetName=NetUSART5_3 Pin=USART5-3
+Added Pin To Net: NetName=GND Pin=USART5-4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component ADC Header 1x6
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component CAN1 Header 1x4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component ENET Header 1x6
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component GPIO Header 1x6
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component I2C I2C 1x4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component IN IN 1x3
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component OUT OUT 1x3
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component SPI SPI 1x7
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component UART3 UART 1x4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component UART4 UART 1x4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component USART0 UART 1x4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component USART1 UART 1x4
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component USART2 UART 1x6
+Added Member To Class: ClassName=нижн€€ плата верси€ 2 Member=Component USART5 UART 1x4

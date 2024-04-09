@@ -1,0 +1,16 @@
+Added Component: Designator=LDO(ТО-263)
+Added Pin To Net: NetName=VCC Pin=LDO-1
+Added Pin To Net: NetName=GND Pin=LDO-2
+Added Pin To Net: NetName=3V3 Pin=LDO-3
+Add Pin To Net: Unknown Pin: Pin LDO-4
+Add Pin To Net: Unknown Pin: Pin TYPE-C-1
+Add Pin To Net: Unknown Pin: Pin TYPE-C-2
+Add Pin To Net: Unknown Pin: Pin TYPE-C-3
+Add Pin To Net: Unknown Pin: Pin TYPE-C-7
+Add Pin To Net: Unknown Pin: Pin TYPE-C-8
+Add Pin To Net: Unknown Pin: Pin TYPE-C-9
+Add Pin To Net: Unknown Pin: Pin TYPE-C-10
+Add Pin To Net: Unknown Pin: Pin TYPE-C-11
+Add Pin To Net: Unknown Pin: Pin TYPE-C-15
+Add Pin To Net: Unknown Pin: Pin TYPE-C-16
+Added Member To Class: ClassName=нижняя плата версия 1 Member=Component LDO КФ1158Н
