@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=верхняя плата версия 1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YQDDYGMY
-
-[Document2]
 DocumentPath=..\Библиотека\16.10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=..\Библиотека\18_09.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=..\Библиотека\Components - 08.07.23 - 16.31.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\Библиотека\Components - 08.07.23 - 16.31.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\Библиотека\Components - 08.07.23 - 16.41.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\Библиотека\Components - 08.07.23 - 16.41.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\Библиотека\Components - 08.07.23 - 17.21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\Библиотека\Components - 08.07.23 - 17.21.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\Библиотека\IC_MXC6655XA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\Библиотека\K1921BK01T2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\Библиотека\LCD_09.2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\Библиотека\LM1501AGR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\Библиотека\LQFP64.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\Библиотека\LQFP64.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\Библиотека\microsd_ruichi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\Библиотека\PcbLib05_08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\Библиотека\PicoBlade.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=..\Библиотека\PicoBlade.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=..\Библиотека\pizdecс.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\Библиотека\pizdecс1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\Библиотека\Razems.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\Библиотека\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=..\Библиотека\Schlib05_08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=..\Библиотека\SMD Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=..\Библиотека\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=..\Библиотека\SMD SMD-Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=..\Библиотека\smth.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=..\Библиотека\Type-C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=..\Библиотека\XT60.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=..\Библиотека\Полётник_компоненты.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document31]
 DocumentPath=..\Библиотека\полётный контроллер.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document32]
 DocumentPath=..\Библиотека\полётный контроллер.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document33]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Button GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Capacitor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Coil GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Comparators GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Connector GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Crystal GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\DC-DC Converter GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Digital Interfaces GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Diode GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Ethernet Controller GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Fuse GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\LCD GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Led GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Linear Regulator GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\MCU GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\OPA GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Optical GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Resistor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Rotary Encoder GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Switch GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Transceiver_SoC GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Transformer GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=..\Библиотека\ADLib_GOST-master\SCH\Transistor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Coil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1018,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Connector BtoB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1052,7 +1035,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1069,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document60]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1069,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document61]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1086,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document63]
+[Document62]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP LCD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1120,7 +1103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document64]
+[Document63]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Led.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1137,7 +1120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document64]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Rotary Encoder.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1154,7 +1137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document65]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1171,7 +1154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
+[Document66]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\DIP TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1188,7 +1171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document68]
+[Document67]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1205,7 +1188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document68]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1222,7 +1205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document69]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Coil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1239,7 +1222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document70]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1256,7 +1239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD DO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1273,7 +1256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document72]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1290,7 +1273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD General.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1307,7 +1290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document74]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Leds.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1324,7 +1307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document76]
+[Document75]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD LQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1341,7 +1324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document77]
+[Document76]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1358,7 +1341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document77]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Resistor Variable.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1375,7 +1358,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document78]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1392,7 +1375,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document80]
+[Document79]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD RUS IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1409,7 +1392,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document80]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD SMD-Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1426,7 +1409,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document81]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1443,7 +1426,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document82]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1460,7 +1443,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document83]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1477,7 +1460,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document85]
+[Document84]
 DocumentPath=..\Библиотека\ADLib_GOST-master\PCB\SMD Transformer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1494,7 +1477,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document86]
+[Document85]
 DocumentPath=Библиотека\полётный контроллер.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1511,7 +1494,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document87]
+[Document86]
 DocumentPath=Библиотека\16.10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1528,7 +1511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document87]
 DocumentPath=Библиотека\18_09.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1545,7 +1528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document88]
 DocumentPath=Библиотека\Components - 08.07.23 - 16.31.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1562,7 +1545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document89]
 DocumentPath=Библиотека\Components - 08.07.23 - 16.31.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1579,7 +1562,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document91]
+[Document90]
 DocumentPath=Библиотека\Components - 08.07.23 - 16.41.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1596,7 +1579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document92]
+[Document91]
 DocumentPath=Библиотека\Components - 08.07.23 - 16.41.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1613,7 +1596,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document93]
+[Document92]
 DocumentPath=Библиотека\Components - 08.07.23 - 17.21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1630,7 +1613,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document94]
+[Document93]
 DocumentPath=Библиотека\Components - 08.07.23 - 17.21.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1647,7 +1630,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document95]
+[Document94]
 DocumentPath=Библиотека\IC_MXC6655XA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1664,7 +1647,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document96]
+[Document95]
 DocumentPath=Библиотека\K1921BK01T2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1681,7 +1664,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document97]
+[Document96]
 DocumentPath=Библиотека\LCD_09.2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1698,7 +1681,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document98]
+[Document97]
 DocumentPath=Библиотека\LM1501AGR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1715,7 +1698,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document99]
+[Document98]
 DocumentPath=Библиотека\LQFP64.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1732,7 +1715,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document100]
+[Document99]
 DocumentPath=Библиотека\LQFP64.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1749,7 +1732,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document101]
+[Document100]
 DocumentPath=Библиотека\microsd_ruichi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1766,7 +1749,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document102]
+[Document101]
 DocumentPath=Библиотека\PcbLib05_08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1783,7 +1766,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document103]
+[Document102]
 DocumentPath=Библиотека\PicoBlade.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1800,7 +1783,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document104]
+[Document103]
 DocumentPath=Библиотека\PicoBlade.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1817,7 +1800,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document105]
+[Document104]
 DocumentPath=Библиотека\pizdecс.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1834,7 +1817,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document106]
+[Document105]
 DocumentPath=Библиотека\pizdecс1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1851,7 +1834,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document107]
+[Document106]
 DocumentPath=Библиотека\Razems.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1868,7 +1851,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document108]
+[Document107]
 DocumentPath=Библиотека\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1885,7 +1868,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document109]
+[Document108]
 DocumentPath=Библиотека\Schlib05_08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1902,7 +1885,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document110]
+[Document109]
 DocumentPath=Библиотека\SMD Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1919,7 +1902,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document111]
+[Document110]
 DocumentPath=Библиотека\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1936,7 +1919,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document112]
+[Document111]
 DocumentPath=Библиотека\SMD SMD-Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1953,7 +1936,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document113]
+[Document112]
 DocumentPath=Библиотека\smth.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1970,7 +1953,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document114]
+[Document113]
 DocumentPath=Библиотека\Type-C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1987,7 +1970,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document115]
+[Document114]
 DocumentPath=Библиотека\XT60.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2004,7 +1987,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document116]
+[Document115]
 DocumentPath=Библиотека\Полётник_компоненты.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2021,7 +2004,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document117]
+[Document116]
 DocumentPath=Библиотека\полётный контроллер.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2038,7 +2021,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document118]
+[Document117]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2055,7 +2038,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document119]
+[Document118]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Coil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2072,7 +2055,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document120]
+[Document119]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Connector BtoB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2089,7 +2072,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document121]
+[Document120]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2106,7 +2089,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document122]
+[Document121]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2123,7 +2106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document123]
+[Document122]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2140,7 +2123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document124]
+[Document123]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP LCD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2157,7 +2140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document125]
+[Document124]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Led.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2174,7 +2157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document126]
+[Document125]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Rotary Encoder.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2191,7 +2174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document127]
+[Document126]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2208,7 +2191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document128]
+[Document127]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\DIP TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2225,7 +2208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document129]
+[Document128]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Button.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2242,7 +2225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document130]
+[Document129]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2259,7 +2242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document131]
+[Document130]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Coil.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2276,7 +2259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document132]
+[Document131]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2293,7 +2276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document133]
+[Document132]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD DO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2310,7 +2293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document134]
+[Document133]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2327,7 +2310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document135]
+[Document134]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD General.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2344,7 +2327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document136]
+[Document135]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Leds.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2361,7 +2344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document137]
+[Document136]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD LQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2378,7 +2361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document138]
+[Document137]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2395,7 +2378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document139]
+[Document138]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Resistor Variable.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2412,7 +2395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document140]
+[Document139]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2429,7 +2412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document141]
+[Document140]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD RUS IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2446,7 +2429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document142]
+[Document141]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SMD-Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2463,7 +2446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document143]
+[Document142]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2480,7 +2463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document144]
+[Document143]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2497,7 +2480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document145]
+[Document144]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2514,7 +2497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document146]
+[Document145]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD TQFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2531,7 +2514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document147]
+[Document146]
 DocumentPath=Библиотека\ADLib_GOST-master\PCB\SMD Transformer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2548,7 +2531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document148]
+[Document147]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Button GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2565,7 +2548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document149]
+[Document148]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Capacitor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2582,7 +2565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document150]
+[Document149]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Coil GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2599,7 +2582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document151]
+[Document150]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Comparators GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2616,7 +2599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document152]
+[Document151]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Connector GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2633,7 +2616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document153]
+[Document152]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Crystal GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2650,7 +2633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document154]
+[Document153]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\DC-DC Converter GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2667,7 +2650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document155]
+[Document154]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Digital Interfaces GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2684,7 +2667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document156]
+[Document155]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Diode GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2701,7 +2684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document157]
+[Document156]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Ethernet Controller GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2718,7 +2701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document158]
+[Document157]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Fuse GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2735,7 +2718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document159]
+[Document158]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\LCD GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2752,7 +2735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document160]
+[Document159]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Led GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2769,7 +2752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document161]
+[Document160]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Linear Regulator GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2786,7 +2769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document162]
+[Document161]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\MCU GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2803,7 +2786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document163]
+[Document162]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\OPA GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2820,7 +2803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document164]
+[Document163]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Optical GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2837,7 +2820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document165]
+[Document164]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Resistor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2854,7 +2837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document166]
+[Document165]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Rotary Encoder GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2871,7 +2854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document167]
+[Document166]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Switch GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2888,7 +2871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document168]
+[Document167]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transceiver_SoC GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2905,7 +2888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document169]
+[Document168]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transformer GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2922,7 +2905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document170]
+[Document169]
 DocumentPath=Библиотека\ADLib_GOST-master\SCH\Transistor GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2939,7 +2922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document171]
+[Document170]
 DocumentPath=Библиотека\TYPE-C-31-M-12\HRO_TYPE-C-31-M-12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2956,7 +2939,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document172]
+[Document171]
 DocumentPath=Библиотека\TYPE-C-31-M-12\TYPE-C-31-M-12.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2973,7 +2956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document173]
+[Document172]
 DocumentPath=Схема версия 3.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2990,7 +2973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJVXRENE
 
-[Document174]
+[Document173]
 DocumentPath=Для Сережи.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
