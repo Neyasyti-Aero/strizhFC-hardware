@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetX3_35 Pin=X4-36
+Removed Pin From Net: NetName=NetX3_35 Pin=X8-36
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U11-4
+Added Pin To Net: NetName=NetX4_8 Pin=X4-8
+Added Pin To Net: NetName=NetX4_8 Pin=X8-8
+Added Net: Name=NetX4_8
+Added Pin To Net: NetName=NetX4_10 Pin=X4-10
+Added Pin To Net: NetName=NetX4_10 Pin=X8-10
+Added Net: Name=NetX4_10
+Added Pin To Net: NetName=NetX4_12 Pin=X4-12
+Added Pin To Net: NetName=NetX4_12 Pin=X8-12
+Added Net: Name=NetX4_12
+Added Pin To Net: NetName=NetX4_14 Pin=X4-14
+Added Pin To Net: NetName=NetX4_14 Pin=X8-14
+Added Net: Name=NetX4_14
+Added Pin To Net: NetName=NetX4_16 Pin=X4-16
+Added Pin To Net: NetName=NetX4_16 Pin=X8-16
+Added Net: Name=NetX4_16
+Added Pin To Net: NetName=NetX4_18 Pin=X4-18
+Added Pin To Net: NetName=NetX4_18 Pin=X8-18
+Added Net: Name=NetX4_18
+Added Pin To Net: NetName=NetX4_36 Pin=X4-36
+Added Pin To Net: NetName=NetX4_36 Pin=X8-36
+Added Net: Name=NetX4_36

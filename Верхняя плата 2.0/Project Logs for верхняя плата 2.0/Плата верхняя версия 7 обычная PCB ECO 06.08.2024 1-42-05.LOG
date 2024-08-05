@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=X1-A4_B9
+Removed Pin From Net: NetName=5V Pin=X1-B4_A9
+Added Component: Designator=HL5(LD0805)
+Add component (AddParameter): Name = "Published"; Value = "03.12.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индикатор единичный"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=HL5-2
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U11-4
+Added Pin To Net: NetName=VBUS Pin=HL5-1
+Added Pin To Net: NetName=VBUS Pin=X1-A4_B9
+Added Pin To Net: NetName=VBUS Pin=X1-B4_A9
+Added Net: Name=VBUS
+Added Member To Class: ClassName=Схема версия 3.0 Member=Component HL5 t
