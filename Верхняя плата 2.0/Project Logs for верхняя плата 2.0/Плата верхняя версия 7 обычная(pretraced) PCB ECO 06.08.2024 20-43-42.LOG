@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=4V2 Pin=X6-27
+Removed Pin From Net: NetName=4V2 Pin=X6-28
+Removed Pin From Net: NetName=4V2 Pin=X6-29
+Removed Pin From Net: NetName=4V2 Pin=X6-30
+Removed Pin From Net: NetName=4V2 Pin=X10-27
+Removed Pin From Net: NetName=4V2 Pin=X10-28
+Removed Pin From Net: NetName=4V2 Pin=X10-29
+Removed Pin From Net: NetName=4V2 Pin=X10-30
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U11-4
+Added Pin To Net: NetName=4V1 Pin=X6-27
+Added Pin To Net: NetName=4V1 Pin=X6-28
+Added Pin To Net: NetName=4V1 Pin=X6-29
+Added Pin To Net: NetName=4V1 Pin=X6-30
+Added Pin To Net: NetName=4V1 Pin=X10-27
+Added Pin To Net: NetName=4V1 Pin=X10-28
+Added Pin To Net: NetName=4V1 Pin=X10-29
+Added Pin To Net: NetName=4V1 Pin=X10-30
+Added Net: Name=4V1
