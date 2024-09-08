@@ -523,7 +523,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TCFDIUNR
 
 [Document29]
 DocumentPath=Библиотека\полётный контроллер.SchLib
@@ -1495,23 +1495,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NOKJDINR
 
 [Document86]
-DocumentPath=Нижняя плата версия 3.0.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TBZZYOVZ
-
-[Document87]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\NX5032GA-8.000M-STD-CSU-1.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1528,7 +1511,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document87]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Разьемы_PBD_PLLD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1545,7 +1528,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document88]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Разьемы_PLLD_PBD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1562,7 +1545,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document89]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\полётный контроллер 1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1577,9 +1560,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IDRVWAEL
 
-[Document91]
+[Document90]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\16.10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1596,7 +1579,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document92]
+[Document91]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\18_09.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1613,7 +1596,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document93]
+[Document92]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\74HC04D.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1630,7 +1613,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document94]
+[Document93]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\3362P-1-103.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1647,7 +1630,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document95]
+[Document94]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\ABLS-8.000MHZ-B2-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1664,7 +1647,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document96]
+[Document95]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\ABM3B-8.000MHZ-B2-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1681,7 +1664,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document97]
+[Document96]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\ABM7-8.000MHZ-8-R80-D2Y-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1698,7 +1681,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document98]
+[Document97]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\AMS1117.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1715,7 +1698,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document99]
+[Document98]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\B4B-XH-A_LF__SN_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1732,7 +1715,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document100]
+[Document99]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\B6B-XH-A_LF__SN_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1749,7 +1732,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document101]
+[Document100]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\B8B-XH-A_LF__SN_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1766,7 +1749,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document102]
+[Document101]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\B340A-13-F.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1783,7 +1766,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document103]
+[Document102]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMI055.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1800,7 +1783,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document104]
+[Document103]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMI088(1).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1817,7 +1800,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document105]
+[Document104]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMI270(1).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1834,7 +1817,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document106]
+[Document105]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMI270.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1851,7 +1834,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document107]
+[Document106]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMM150(1).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1868,7 +1851,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document108]
+[Document107]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMP280.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1885,7 +1868,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document109]
+[Document108]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\BMP388.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1902,7 +1885,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document110]
+[Document109]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 16.31.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1919,7 +1902,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document111]
+[Document110]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 16.31.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1936,7 +1919,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document112]
+[Document111]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 16.31.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1953,7 +1936,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document113]
+[Document112]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 16.41.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1970,7 +1953,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document114]
+[Document113]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 16.41.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1987,7 +1970,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document115]
+[Document114]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 17.21.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2004,7 +1987,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document116]
+[Document115]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 17.21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2021,7 +2004,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document117]
+[Document116]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Components - 08.07.23 - 17.21.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2038,7 +2021,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document118]
+[Document117]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\CP2102N-A02-GQFN28.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2055,7 +2038,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document119]
+[Document118]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\ESP32-S2.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2072,7 +2055,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document120]
+[Document119]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\IC_MXC6655XA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2089,7 +2072,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document121]
+[Document120]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\K1921BK01T2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2106,7 +2089,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document122]
+[Document121]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\LCD_09.2023.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2123,7 +2106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document123]
+[Document122]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\LM1085IT-5.0.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2140,7 +2123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document124]
+[Document123]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\LM1501AGR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2157,7 +2140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document125]
+[Document124]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\LQFP64.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2174,7 +2157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document126]
+[Document125]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\LQFP64.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2191,7 +2174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document127]
+[Document126]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\MAGNETIC-HMC5883L_PLCC16_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2208,7 +2191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document128]
+[Document127]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\microsd_ruichi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2225,7 +2208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document129]
+[Document128]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\MMBT2222A.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2242,7 +2225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document130]
+[Document129]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\MP1584EN.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2259,7 +2242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document131]
+[Document130]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\new1.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2276,7 +2259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document132]
+[Document131]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\new2.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2293,7 +2276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document133]
+[Document132]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\PcbLib05_08.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2310,7 +2293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document134]
+[Document133]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\PicoBlade.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2327,7 +2310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document135]
+[Document134]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\PicoBlade.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2344,7 +2327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document136]
+[Document135]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\pizdecс.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2361,7 +2344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document137]
+[Document136]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\pizdecс1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2378,7 +2361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document138]
+[Document137]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Razems.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2395,7 +2378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document139]
+[Document138]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\RS1D.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2412,7 +2395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document140]
+[Document139]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\S9013.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2429,7 +2412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document141]
+[Document140]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2446,7 +2429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document142]
+[Document141]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Schlib05_08.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2463,7 +2446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document143]
+[Document142]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\SMD Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2480,7 +2463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document144]
+[Document143]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\SMD Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2497,7 +2480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document145]
+[Document144]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\SMD SMD-Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2514,7 +2497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document146]
+[Document145]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\smth.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2531,7 +2514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document147]
+[Document146]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\T491X106K050AT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2548,7 +2531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document148]
+[Document147]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\T493B105K025BC6120.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2565,7 +2548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document149]
+[Document148]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\TDC1000PW.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2582,7 +2565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document150]
+[Document149]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\TJA1042T_118.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2599,7 +2582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document151]
+[Document150]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\TPS76333DBVR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2616,7 +2599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document152]
+[Document151]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\TXB0104PWR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2633,7 +2616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document153]
+[Document152]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Type-C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2650,7 +2633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document154]
+[Document153]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\TYPE-C-31-M-12.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2667,7 +2650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document155]
+[Document154]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\VLS6045EX-150M.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2684,7 +2667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document156]
+[Document155]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\W25Q32FVSSIG.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2701,7 +2684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document157]
+[Document156]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\WS2812B(1).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2718,7 +2701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document158]
+[Document157]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\WS2812B.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2735,7 +2718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document159]
+[Document158]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\XT60.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2752,7 +2735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document160]
+[Document159]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\XT60PW-M.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2769,7 +2752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document161]
+[Document160]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Полётник_компоненты.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2786,7 +2769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document162]
+[Document161]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\полётный контроллер.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2803,7 +2786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document163]
+[Document162]
 DocumentPath=..\Верхняя плата 2.0\Библиотека\Разъёмы PicoBlade.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2820,7 +2803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document164]
+[Document163]
 DocumentPath=Библиотека\74HC04D.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2837,7 +2820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document165]
+[Document164]
 DocumentPath=Библиотека\3362P-1-103.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2854,7 +2837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document166]
+[Document165]
 DocumentPath=Библиотека\ABLS-8.000MHZ-B2-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2871,7 +2854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document167]
+[Document166]
 DocumentPath=Библиотека\ABM3B-8.000MHZ-B2-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2888,7 +2871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document168]
+[Document167]
 DocumentPath=Библиотека\ABM7-8.000MHZ-8-R80-D2Y-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2905,7 +2888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document169]
+[Document168]
 DocumentPath=Библиотека\AMS1117.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2922,7 +2905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document170]
+[Document169]
 DocumentPath=Библиотека\B4B-XH-A_LF__SN_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2939,7 +2922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document171]
+[Document170]
 DocumentPath=Библиотека\B6B-XH-A_LF__SN_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2956,7 +2939,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document172]
+[Document171]
 DocumentPath=Библиотека\B8B-XH-A_LF__SN_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2973,7 +2956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document173]
+[Document172]
 DocumentPath=Библиотека\B340A-13-F.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -2990,7 +2973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document174]
+[Document173]
 DocumentPath=Библиотека\BMI055.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3007,7 +2990,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document175]
+[Document174]
 DocumentPath=Библиотека\BMI270(1).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3024,7 +3007,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document176]
+[Document175]
 DocumentPath=Библиотека\BMI270.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3041,7 +3024,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document177]
+[Document176]
 DocumentPath=Библиотека\BMP280.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3058,7 +3041,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document178]
+[Document177]
 DocumentPath=Библиотека\BMP388.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3075,7 +3058,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document179]
+[Document178]
 DocumentPath=Библиотека\Components - 08.07.23 - 16.31.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3092,7 +3075,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document180]
+[Document179]
 DocumentPath=Библиотека\Components - 08.07.23 - 17.21.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3109,7 +3092,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document181]
+[Document180]
 DocumentPath=Библиотека\CP2102N-A02-GQFN28.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3126,7 +3109,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document182]
+[Document181]
 DocumentPath=Библиотека\ESP32-S2.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3143,7 +3126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document183]
+[Document182]
 DocumentPath=Библиотека\IPB60R165CP.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3160,7 +3143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document184]
+[Document183]
 DocumentPath=Библиотека\IPB60R190C6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3177,7 +3160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document185]
+[Document184]
 DocumentPath=Библиотека\LM1085IT-5.0.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3194,7 +3177,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document186]
+[Document185]
 DocumentPath=Библиотека\LTC1196-1BCS8_PBF.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3211,7 +3194,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document187]
+[Document186]
 DocumentPath=Библиотека\MAGNETIC-HMC5883L_PLCC16_.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3228,7 +3211,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document188]
+[Document187]
 DocumentPath=Библиотека\MMBT2222A.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3245,7 +3228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document189]
+[Document188]
 DocumentPath=Библиотека\MP1584EN.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -3261,6 +3244,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document189]
+DocumentPath=нижняя плата версия 4.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DNSLISFT
 
 [Document190]
 DocumentPath=Библиотека\new1.LibPkg
@@ -3619,6 +3619,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document211]
+DocumentPath=нижняя плата версия 5.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ACMICTNU
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for нижняя плата 2.0\нижняя плата версия 3-RectHoles.TXT
 DItemRevisionGUID=
@@ -3811,16 +3828,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -3832,16 +3839,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -4095,15 +4092,6 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=GOSTBOM
-OutputName10=GOST BOM
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
-Configuration10_Name1=ForceUpdateSettings
-Configuration10_Item1=False
-Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=Record=GOSTBOMView|Report=0,1,2|DocumentPath=C:\Users\Serezha K\Documents\GitHub\strizhFC-hardware\Нижняя плата 2.0\Нижняя плата версия 3.0.SchDoc
 
 [OutputGroup7]
 Name=Other Outputs
@@ -4226,11 +4214,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=AnsysEDB
-OutputName13=Ansys EDB
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
