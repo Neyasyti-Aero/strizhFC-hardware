@@ -1,0 +1,9 @@
+Added Component: Designator=U10(SOIC-8)
+Add Pin To Net: Unknown Pin: Pin U4-4
+Added Pin To Net: NetName=NetC26_2 Pin=U10-2
+Added Pin To Net: NetName=NetC26_1 Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-4
+Added Pin To Net: NetName=NetR28_2 Pin=U10-6
+Added Pin To Net: NetName=3V3 Pin=U10-7
+Added Pin To Net: NetName=NetR27_1 Pin=U10-8
+Added Member To Class: ClassName=нижн€€ плата верси€ 4 Member=Component U10 IL1776C

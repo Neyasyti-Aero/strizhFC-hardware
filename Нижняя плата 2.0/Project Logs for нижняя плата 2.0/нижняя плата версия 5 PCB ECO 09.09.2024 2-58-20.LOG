@@ -1,0 +1,17 @@
+Added Component: Designator=C27(C0603)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C28(C0603)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Add Pin To Net: Unknown Pin: Pin U4-4
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=U5-5
+Added Pin To Net: NetName=NetC27_2 Pin=Z1-2
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=U5-6
+Added Pin To Net: NetName=NetC28_2 Pin=Z1-1
+Added Net: Name=NetC28_2
+Added Member To Class: ClassName=нижн€€ плата верси€ 4 Member=Component C27 100n
+Added Member To Class: ClassName=нижн€€ плата верси€ 4 Member=Component C28 100n

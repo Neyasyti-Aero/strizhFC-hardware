@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R25 Old Footprint=R0603 New Footprint=RESC6864X114N
+Added Component: Designator=X24(AMASS_XT60PW-F)
+Add component (AddParameter): Name = "Value"; Value = "Amass XT-60-PW-F"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U10-2
+Add Pin To Net: Unknown Pin: Pin U10-3
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U10-6
+Add Pin To Net: Unknown Pin: Pin U10-7
+Add Pin To Net: Unknown Pin: Pin U10-8
+Added Pin To Net: NetName=VCC Pin=X24-1
+Added Pin To Net: NetName=NetR24_2 Pin=X24-2
+Add Class Member: Failed to add class member : Component U10 IL1776C
+Added Member To Class: ClassName=нижн€€ плата верси€ 4 Member=Component X24 Amass XT-60-PW-F
