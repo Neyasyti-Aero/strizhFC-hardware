@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VCC Pin=VT1-1
+Removed Pin From Net: NetName=NetU1_87 Pin=VT1-3
+Removed Pin From Net: NetName=VCC Pin=VT2-1
+Removed Pin From Net: NetName=NetU1_88 Pin=VT2-3
+Removed Pin From Net: NetName=VCC Pin=VT3-1
+Removed Pin From Net: NetName=NetU1_89 Pin=VT3-3
+Removed Pin From Net: NetName=VCC Pin=VT4-1
+Removed Pin From Net: NetName=NetU1_90 Pin=VT4-3
+Change Component Comment : Designator=U8 Old Comment=TJA1040T New Comment= 5559»Õ14¿
+Add Pin To Net: Unknown Pin: Pin U10-4
+Add Pin To Net: Unknown Pin: Pin U11-4
+Added Pin To Net: NetName=NetU1_87 Pin=VT1-1
+Added Pin To Net: NetName=VCC Pin=VT1-3
+Added Pin To Net: NetName=NetU1_88 Pin=VT2-1
+Added Pin To Net: NetName=VCC Pin=VT2-3
+Added Pin To Net: NetName=NetU1_89 Pin=VT3-1
+Added Pin To Net: NetName=VCC Pin=VT3-3
+Added Pin To Net: NetName=NetU1_90 Pin=VT4-1
+Added Pin To Net: NetName=VCC Pin=VT4-3

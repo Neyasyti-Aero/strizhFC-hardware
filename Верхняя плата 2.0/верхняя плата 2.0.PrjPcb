@@ -5014,74 +5014,78 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for верхняя плата 2.0\Design Rule Check - Плата верхняя версия 7 обычная(90% дальше лень).html
+DocumentPath=Project Outputs for верхняя плата 2.0\Design Rule Check - Плата верхняя версия 7.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3-RoundHoles.TXT
+DocumentPath=Project Outputs for верхняя плата 2.0\Design Rule Check - Плата верхняя версия 7 обычная(90% дальше лень).html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3-SlotHoles.TXT
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.DRR
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.EXTREP
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.G1
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.G2
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.G1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBL
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.G2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBO
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBP
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBS
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTL
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTO
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTP
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTS
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.LDP
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.REP
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for верхняя плата 2.0\верхняя плата версия 3.RUL
 DItemRevisionGUID=
 
