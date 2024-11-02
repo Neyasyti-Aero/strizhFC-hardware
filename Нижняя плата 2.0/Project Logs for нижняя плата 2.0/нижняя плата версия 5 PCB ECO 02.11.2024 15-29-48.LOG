@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=NetU5_9 Pin=X3-18
+Removed Pin From Net: NetName=NetU5_11 Pin=X3-20
+Removed Pin From Net: NetName=GND Pin=X21-S1
+Removed Pin From Net: NetName=GND Pin=X21-S2
+Removed Pin From Net: NetName=GND Pin=X21-S3
+Removed Pin From Net: NetName=GND Pin=X21-S4
+Removed Pin From Net: NetName=VCC Pin=X24-1
+Removed Pin From Net: NetName=NetC30_1 Pin=X24-2
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U4-4
+Added Pin To Net: NetName=NetU5_11 Pin=X3-18
+Added Pin To Net: NetName=NetU5_9 Pin=X3-20
+Added Pin To Net: NetName=NetC30_1 Pin=X24-1
+Added Pin To Net: NetName=VCC Pin=X24-2
+Change Simulation Model (AddParameter): Name = "Value"; Value = "23K7"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "133K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "124K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "57K6"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "29K4"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "113K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "124K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "57.6"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "23K7"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "113K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "124K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "57.6"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "75"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "0R001"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
