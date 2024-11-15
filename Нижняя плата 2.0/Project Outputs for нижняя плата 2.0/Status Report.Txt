@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [нижн€€ плата 2.0.PrjPcb]
+   Generated File[нижн€€ плата верси€ 5-RoundHoles-Plated.TXT]
+   Generated File[нижн€€ плата верси€ 5-RoundHoles-NonPlated.TXT]
+   Generated File[нижн€€ плата верси€ 5-SlotHoles-Plated.TXT]
+   Generated File[нижн€€ плата верси€ 5-RectHoles-Plated.TXT]
+   Generated File[нижн€€ плата верси€ 5.LDP]
+   Generated File[нижн€€ плата верси€ 5.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 19:07:31 On 12.11.2024
