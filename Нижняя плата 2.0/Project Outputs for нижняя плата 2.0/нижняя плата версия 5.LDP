@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\Serezha K\Documents\GitHub\strizhFC-hardware\Ќижн€€ плата 2.0\нижн€€ плата верси€ 5.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=нижн€€ плата верси€ 5-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=нижн€€ плата верси€ 5-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=нижн€€ плата верси€ 5-rectholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=нижн€€ плата верси€ 5-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
