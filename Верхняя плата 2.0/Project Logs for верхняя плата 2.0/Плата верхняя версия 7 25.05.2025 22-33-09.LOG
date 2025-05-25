@@ -1,0 +1,12 @@
+Added Component: Designator=VD1(SOD-123)
+Add component (AddParameter): Name = "Published"; Value = "18.05.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Andrew Danich"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Диод"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U11-4
+Added Pin To Net: NetName=VBUS Pin=VD1-1
+Added Pin To Net: NetName=5V Pin=VD1-2
+Added Member To Class: ClassName=Схема версия 3.0 Member=Component VD1 Schottky
+Added Member To Class: ClassName=Схема версия 3.0 Member=Component VT1 КТ234В9
+Added Member To Class: ClassName=Схема версия 3.0 Member=Component VT2 КТ234В9
+Added Member To Class: ClassName=Схема версия 3.0 Member=Component VT3 КТ234В9
+Added Member To Class: ClassName=Схема версия 3.0 Member=Component VT4 КТ234В9

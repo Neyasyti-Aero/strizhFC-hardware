@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Плата верхняя версия 7.1.GBR   12.11.2024  19:09:49
+Gerber File Extension Report For: Плата верхняя версия 7.1.GBR   25.05.2025  23:42:11
 ------------------------------------------------------------------------------------------
 
 
@@ -17,16 +17,4 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Board Outline                           
-.GM2                Board Dimensions                        
-.GM3                Board Design Information                
-.GM4                Panelize Outline                        
-.GM5                Panelize_Route Cutter Tool Detail       
-.GM6                Panelize Dimensions                     
-.GM7                Panelize Design Information             
-.GM8                Route Tool Path                         
-.GM13               Top Assembly                            
-.GM14               Bottom Assembly                         
-.GM15               Top Courtyard                           
-.GM16               Bottom Courtyard                        
-.GM                 Profile                                 
 ------------------------------------------------------------------------------------------
